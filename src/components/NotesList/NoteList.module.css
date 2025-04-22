@@ -1,0 +1,9 @@
+.notes_list {
+	max-width: 50%;
+	min-width: 50%;
+	padding-right: 15px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	transition: 0.2s;
+}

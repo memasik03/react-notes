@@ -1,0 +1,22 @@
+.subtasks {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.title {
+	font-weight: 600;
+	font-size: 22px;
+}
+.add {
+	background-color: #4ed649;
+	width: 40px;
+	height: 40px;
+	aspect-ratio: 1/1;
+	font-size: 32px;
+	align-self: flex-end;
+}
+.top {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}

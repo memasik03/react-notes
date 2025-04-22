@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import NoteBook from './NoteBook/NoteBook'
+import NoteBook from './components/NoteBook/NoteBook'
 
 export default function App() {
 	const [notes, setNotes] = useState([])

@@ -1,0 +1,25 @@
+.note_subtask {
+	display: flex;
+	gap: 7px;
+	max-width: 100%;
+}
+
+.checkbox {
+	width: 20px;
+	height: 20px;
+	background-color: #fff;
+	border: solid 2px rgba(0, 0, 0, 0.07);
+	border-radius: 2px;
+}
+.finished {
+	background-color: #00b5fd;
+	border: solid 2px rgba(255, 255, 255, 0.07);
+}
+.icon {
+	width: 15px;
+	height: 15px;
+	color: #00b5fd;
+}
+.icon_finished {
+	color: #fff;
+}
